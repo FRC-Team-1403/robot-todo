@@ -6,3 +6,10 @@
 - [ ] Get Advantage Kit working - December 7
 - [ ] Get turret to track a staionary target - December 12
 - [ ] Sensor failure testing - December 21
+- [ ] Make offseason repository
+- [ ] Learn/Teach material in shared Google Drive
+
+# New Members
+## Robot Side
+- [ ] Sensor board proficiency
+## App Side
