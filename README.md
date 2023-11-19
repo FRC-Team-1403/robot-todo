@@ -10,6 +10,12 @@
 - [ ] Make offseason repository
 - [ ] Learn/Teach material in shared Google Drive
 
+# Improvements List 
+
+- [ ] Improve communications with mentors/admin
+- [ ] Improve pair programming skills
+
+
 # New Members
 ## Robot Side
 - [ ] Sensor board proficiency
