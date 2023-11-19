@@ -2,7 +2,7 @@
 
 - [ ] Get turret working - November 23
 - [ ] Get simualtor working - November 23
-- [ X ] Get limelight working - Novemeber 30
+- [X] Get limelight working - Novemeber 30
 - [ ] Get code of limelight working - December 12
 - [ ] Get Advantage Kit working - December 12
 - [ ] Get turret to track a staionary target - December 19
